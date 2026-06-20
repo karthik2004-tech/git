@@ -1,1 +1,1 @@
-this is a practice session on the concepts of git and github
+this is a practice session on the concepts of git and github.
